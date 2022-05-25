@@ -1,6 +1,6 @@
 # Dots Find A Way - Public  
 
-### constraints
+### Constraints
 - In the public version removed Scenes
 
 ### Description
