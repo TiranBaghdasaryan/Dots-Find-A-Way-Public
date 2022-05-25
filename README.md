@@ -11,6 +11,7 @@
 - Simple animations
 - System to make level from inspector
 - System to autogenerate level from inspector
+- Pathfinding algorithm
 
 ### Video
 
