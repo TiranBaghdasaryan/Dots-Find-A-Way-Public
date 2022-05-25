@@ -1,4 +1,4 @@
-# Dots Find A Way
+# Dots Find A Way - Public (in the public version removed Scenes) 
 
 ### Description
 - Dots  Find A Way is a simple minimalist puzzle game about connecting dots and spreading happiness.  
